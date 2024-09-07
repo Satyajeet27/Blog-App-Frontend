@@ -1,5 +1,3 @@
-
-import React from 'react'
 import { Separator } from '../ui/separator'
 import { LoaderCircle } from 'lucide-react'
 import BlogCard from './BlogCard'
