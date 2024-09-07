@@ -1,7 +1,6 @@
 import { useGetBlogById } from '@/api/blogApi'
 import { formatDate } from '@/util/dateFormatter'
 import { Loader, UserRoundPen } from 'lucide-react'
-import React from 'react'
 import { Link, useLocation } from 'react-router-dom'
 
 const BlogPage = () => {
